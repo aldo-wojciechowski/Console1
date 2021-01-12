@@ -1,0 +1,16 @@
+C:\workspace\Console1\bin\Debug\net5.0\Console1.exe
+C:\workspace\Console1\bin\Debug\net5.0\Console1.deps.json
+C:\workspace\Console1\bin\Debug\net5.0\Console1.runtimeconfig.json
+C:\workspace\Console1\bin\Debug\net5.0\Console1.runtimeconfig.dev.json
+C:\workspace\Console1\bin\Debug\net5.0\Console1.dll
+C:\workspace\Console1\bin\Debug\net5.0\ref\Console1.dll
+C:\workspace\Console1\bin\Debug\net5.0\Console1.pdb
+C:\workspace\Console1\obj\Debug\net5.0\Console1.csprojAssemblyReference.cache
+C:\workspace\Console1\obj\Debug\net5.0\Console1.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Console1\obj\Debug\net5.0\Console1.AssemblyInfoInputs.cache
+C:\workspace\Console1\obj\Debug\net5.0\Console1.AssemblyInfo.cs
+C:\workspace\Console1\obj\Debug\net5.0\Console1.csproj.CoreCompileInputs.cache
+C:\workspace\Console1\obj\Debug\net5.0\Console1.dll
+C:\workspace\Console1\obj\Debug\net5.0\ref\Console1.dll
+C:\workspace\Console1\obj\Debug\net5.0\Console1.pdb
+C:\workspace\Console1\obj\Debug\net5.0\Console1.genruntimeconfig.cache
